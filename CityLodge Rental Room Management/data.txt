@@ -1,0 +1,4 @@
+R_103:2:fully furnished:Available:A_003.jpg:StandardRoom
+R_102:1:furnished:Available:A_001.jpg:StandardRoom
+R_101:2:furnished:Rented:A_001.jpg:StandardRoom
+R_101_C_101_14102019:14/10/2019:2
